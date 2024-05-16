@@ -28,13 +28,13 @@ If you need to run the script to get data for different seed values for any reas
 To run the scripts:
 
     1. Ensure you have all dependencies installed:
-    pip install -r requirements.txt
+    `pip install -r requirements.txt`
 
     2. You need latex to get the plots, for Linux install it using:
-    sudo apt-get install dvipng texlive-latex-extra texlive-fonts-recommended cm-super
+    `sudo apt-get install dvipng texlive-latex-extra texlive-fonts-recommended cm-super`
 
     3. Execute the main script:
-    python barren_plateaus.py
+    `python barren_plateaus.py`
 
 ## License
 
