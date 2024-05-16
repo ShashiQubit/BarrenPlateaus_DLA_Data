@@ -1,4 +1,4 @@
-# BarrenPlateaus_DLA_Data Repository
+# DLA Data for Barren Plateaus Research
 
 This repository contains pre-generated data for the figure related to barren plateaus in variational quantum circuits (VQC), specifically focusing on the exponential and polynomial decay of gradients with respect to system size.
 
