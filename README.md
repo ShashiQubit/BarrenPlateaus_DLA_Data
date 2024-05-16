@@ -10,18 +10,19 @@ The original code used for the figure is available [here](https://github.com/the
 
     data/: Contains the pre-generated data files.
     scripts/: Contains the original Python scripts with a minor fix.
-    examples/: Example usage of the data and scripts.
+    figues/: Contains the figure generated from the script
     README.md: This document.
-## Usage
-# Accessing the Data
+    
+# Usage
+## Accessing the Data
 
 The pre-generated data is located in the data/ directory. You can load and use this data directly in your analysis without the need to run the time-consuming scripts.
 
 ## Running the Scripts
 
-If you need to run the scripts for any reason, they are available in the scripts/ directory. Note the minor fix added:
+If you need to run the script to get data for different seed values for any reason, uncomment the ```get_data``` line in barren_plateaus.py and change the seed value. It will do the the whole computation again. Note the minor fix added:
 
-# Fixed missing import
+## Fixed missing import
 ```import scienceplots```
 
 To run the scripts:
