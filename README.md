@@ -9,8 +9,8 @@ The original code used for the figure is available [here](https://github.com/the
 ## Repository Contents
 
     data/: Contains the pre-generated data files.
-    scripts/: Contains the original Python scripts with a minor fix.
-    figues/: Contains the figure generated from the script
+    barren_plateaus.py: Contains the original Python scripts with a minor fix.
+    figures/: Contains the figures generated from the script
     README.md: This document.
     
 # Usage
@@ -33,6 +33,9 @@ To run the scripts:
     2. Execute the main script:
     '``python barren_plateaus.py```
 
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Acknowledgments
 
