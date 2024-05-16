@@ -12,6 +12,10 @@ The original code used for the figure is available [here](https://github.com/the
     barren_plateaus.py: Contains the original Python scripts with a minor fix.
     figures/: Contains the figures generated from the script
     README.md: This document.
+
+## Figure
+![Description of the image](data/barren_plateaus_nruns_1000/figures/a14_a5_circ_scaling_variance.png)
+
     
 # Usage
 ## Accessing the Data
